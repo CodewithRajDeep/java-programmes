@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Character",
+            "request": "launch",
+            "mainClass": "Character",
+            "projectName": "complete java programms_1f89ffee"
+        },
+        {
+            "type": "java",
+            "name": "Check",
+            "request": "launch",
+            "mainClass": "Check",
+            "projectName": "complete java programms_1f89ffee"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "complete java programms_1f89ffee"
+        },
+        {
+            "type": "java",
+            "name": "Leap",
+            "request": "launch",
+            "mainClass": "Leap",
+            "projectName": "complete java programms_1f89ffee"
+        },
+        {
+            "type": "java",
             "name": "Calculator",
             "request": "launch",
             "mainClass": "Calculator",
