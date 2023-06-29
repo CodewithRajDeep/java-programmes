@@ -20,5 +20,6 @@ In order to do this project, perform the following:
 
 ![image](https://github.com/CodewithRajDeep/java-programmes/assets/121842502/8ee8fa1b-e209-4c5f-b714-959314ce1fb3) 
 
-![image](https://miro.medium.com/v2/resize:fit:1400/1*1zja2tJ8YHSow50e9pCTAA.gif)
+![image](https://github.com/CodewithRajDeep/java-programmes/assets/121842502/2e599fd1-6733-4f22-a962-e004af1d8a86)
+
 
